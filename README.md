@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💌 If you want to carry out a project with me (or make small talk), don't hesitate to send me a message:: ⤵️
+  💌 <strong> If you want to carry out a project with me (or make small talk), don't hesitate to send me a message </strong>: ⤵️
 </p>
 
 <p align="left">
