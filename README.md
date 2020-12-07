@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  💪🏼 Skills: <strong>HTML5, CSS3, SASS, PHP, Javascript, Node JS, React JS, Vue JS, Angular, Boostrap, jQuery, MySQL, NoSQL and PostgreSQL</strong>.
+  💪🏼 <strong>Skills</strong>: HTML5, CSS3, SASS, PHP, Javascript, Node JS, React JS, Vue JS, Angular, Boostrap, jQuery, MySQL, NoSQL and PostgreSQL.
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Visual Studio Code, PhotoShop, Gimp, Vegas Pro, Git and Github</strong>.
+  💼 <strong>Tools</strong>: Visual Studio Code, PhotoShop, Gimp, Vegas Pro, Git and Github.
 </p>
 
 <p align="left">
