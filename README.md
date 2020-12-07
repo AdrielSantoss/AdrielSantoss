@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Hello my name is adriel and i'm a <strong>fullstack web developer</strong>.<br>
-  I am studying System and System Development for Internet. 
+  I study development and operation of systems for the internet
 </p>
 
 <p align="left">
