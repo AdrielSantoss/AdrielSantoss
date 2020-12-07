@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hello my name is adriel, i'm 18 years old and i'm a <strong>fullstack web developer<strong>.<br>
+  Hello my name is adriel, i'm 18 years old and i'm a <strong>fullstack web developer</strong>.<br>
   I am studying System and System Development for Internet. 
 </p>
 
