@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hello my name is adriel and i'm a <strong>fullstack web developer</strong>.<br>
+  Hello my name is Adriel and i'm a <strong>fullstack web developer</strong>.<br>
   I study development and operation of systems for the internet.
 </p>
 
