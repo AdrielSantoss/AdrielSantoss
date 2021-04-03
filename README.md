@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  💪🏼 <strong>Skills</strong>: HTML5, CSS3, SASS, PHP, Javascript, Node JS, React JS, Vue JS, Angular, Boostrap, jQuery, MySQL, NoSQL and PostgreSQL.
+  💪🏼 <strong>Skills</strong>: HTML5, CSS3, SASS, PHP, C#, Javascript, Node JS, Entity Framework, Dapper React JS, Vue JS, Angular, Boostrap, jQuery, MySQL, NoSQL and PostgreSQL.
 </p>
 
 <p align="left">
