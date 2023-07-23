@@ -1,5 +1,5 @@
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="250"/>
 
 <p align="left"> 
   Hello my name is Adriel and i'm a <strong>fullstack web developer</strong>.<br>
