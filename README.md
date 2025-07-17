@@ -10,7 +10,7 @@ I'm a passionate **Fullstack Web Developer**, currently studying **Development a
   `HTML5` • `CSS3` • `SASS` • `JavaScript` • `C#` • `PHP` • `Node.js`  
   `React.js` • `Vue.js` • `Angular` • `Bootstrap` • `jQuery`
 
-- **Backend & Databases**:  
+- **Back-end & Databases**:  
   `Entity Framework` • `Dapper` • `MySQL` • `PostgreSQL` • `NoSQL`
 
 ---
@@ -25,7 +25,7 @@ I'm a passionate **Fullstack Web Developer**, currently studying **Development a
 
 ## 📫 Let's connect!
 
-Feel free to reach out or explore my work! 🚀
+Feel free to get in touch or explore my work! 🚀
 
 ---
 
