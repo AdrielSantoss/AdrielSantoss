@@ -7,7 +7,7 @@ I'm a passionate **Fullstack Web Developer**, currently studying **Development a
 ## 🧠 Skills
 
 - **Languages & Frameworks**:  
-  `HTML5` • `CSS3` • `SASS` • `JavaScript` • `C#` • `PHP` • `Node.js`  
+  `JavaScript` • `C#` • `PHP` • `Node.js`  
   `React.js` • `Vue.js` • `Angular` • `Bootstrap` • `jQuery`
 
 - **Back-end & Databases**:  
