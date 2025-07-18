@@ -8,7 +8,7 @@ I'm a passionate **Fullstack Web Developer**, currently studying **Development a
 
 - **Languages & Frameworks**:  
   `JavaScript` • `C#` • `PHP` • `Node.js` • `Python` • `Powershell` • `Dart`  
-  `React.js` • `Vue.js` • `Angular` • `Bootstrap` • `jQuery`
+  `React.js` • `Vue.js` • `Angular` • `Flutter` • `Bootstrap` • `jQuery`
 
 - **Back-end & Databases**:  
   `Entity Framework` • `Dapper` • `MySQL` • `PostgreSQL` • `NoSQL`
