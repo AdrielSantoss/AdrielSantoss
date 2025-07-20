@@ -17,9 +17,9 @@ I'm a passionate **Fullstack Web Developer**, currently studying **Development a
 
 ## 🛠️ Tools I Use
 
-- `Visual Studio Code`  
+- `Visual Studio Code`
+- `Git` • `GitHub` • `GitLab` 
 - `Photoshop` • `GIMP` • `Vegas Pro`  
-- `Git` • `GitHub`
 
 ---
 
